@@ -1,1 +1,1 @@
-# llm-on-health-communication
+# LLMs no Combate à Desinformação em Saúde
